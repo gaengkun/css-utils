@@ -5,6 +5,9 @@
 .w-full    { width: 100%; }
 .w-auto    { width: auto; }
 
+.text-white{color:#fff;}
+.text-black{color:#fff;}
+
 .text-left   { text-align: left; }
 .text-center { text-align: center; }
 .text-right  { text-align: right; }
