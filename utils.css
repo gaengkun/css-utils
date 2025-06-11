@@ -6,7 +6,7 @@
 .w-auto    { width: auto; }
 
 .text-white{color:#fff;}
-.text-black{color:#fff;}
+.text-black{color:#000;}
 
 .text-left   { text-align: left; }
 .text-center { text-align: center; }
